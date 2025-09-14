@@ -1,0 +1,219 @@
+{
+  "model": "kemono0",
+  "parts": {
+    "bodybase": "base",
+    "body": "skin0",
+    "fullbodycover": "stripes",
+    "chest": "chest1",
+    "bodyextra": "wolfkume",
+    "bodytattoo": "none",
+    "bust": "c",
+    "leg": "kemono2",
+    "wings": "insect",
+    "legtattoo": "none",
+    "wings2": "none",
+    "tail": "bug2",
+    "tail2": "tail2",
+    "tailextra": "tailextra",
+    "head": "splitlip",
+    "head2": "head2",
+    "headtattoo": "none",
+    "eyewear": "none",
+    "ear": "bug2",
+    "tailbonus": "furred",
+    "ear2": "trim0",
+    "earinner": "earinner",
+    "horn": "none",
+    "eyewhite": "eyewhite0",
+    "eye": "bug1_raised",
+    "eye2": "none",
+    "hair": "sidecut_flipped",
+    "hairextra": "none",
+    "mustache": "none",
+    "beard": "none",
+    "headnose": "none",
+    "underwear": "none",
+    "fullheadcover": "none"
+  },
+  "scale": {
+    "body": 1.0,
+    "torsoupper": 1.0,
+    "head": 1.0,
+    "earL": 1.0,
+    "earR": 1.0,
+    "legL": 1.0,
+    "legR": 1.0,
+    "legLowerL": 1.0,
+    "legLowerR": 1.0,
+    "wingL": 1.0,
+    "wingR": 1.0,
+    "tail": 1.0
+  },
+  "colors": {
+    "bodybase": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "body": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "fullbodycover": {
+      "r": 222,
+      "g": 222,
+      "b": 80
+    },
+    "chest": {
+      "r": 222,
+      "g": 222,
+      "b": 75
+    },
+    "bodyextra": {
+      "r": 222,
+      "g": 222,
+      "b": 80
+    },
+    "bodytattoo": {
+      "r": 99,
+      "g": 79,
+      "b": 90
+    },
+    "bust": {
+      "r": 91,
+      "g": 233,
+      "b": 211
+    },
+    "leg": {
+      "r": 215,
+      "g": 0,
+      "b": 189
+    },
+    "wings": {
+      "r": 222,
+      "g": 222,
+      "b": 80
+    },
+    "legtattoo": {
+      "r": 181,
+      "g": 202,
+      "b": 0
+    },
+    "wings2": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "tail": {
+      "r": 222,
+      "g": 222,
+      "b": 80
+    },
+    "tail2": {
+      "r": 37,
+      "g": 37,
+      "b": 37
+    },
+    "tailextra": {
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    "head": {
+      "r": 222,
+      "g": 222,
+      "b": 80
+    },
+    "head2": {
+      "r": 35,
+      "g": 35,
+      "b": 35
+    },
+    "headtattoo": {
+      "r": 82,
+      "g": 187,
+      "b": 93
+    },
+    "eyewear": {
+      "r": 120,
+      "g": 120,
+      "b": 125
+    },
+    "ear": {
+      "r": 90,
+      "g": 90,
+      "b": 88
+    },
+    "tailbonus": {
+      "r": 255,
+      "g": 255,
+      "b": 80
+    },
+    "ear2": {
+      "r": 222,
+      "g": 222,
+      "b": 80
+    },
+    "earinner": {
+      "r": 33,
+      "g": 33,
+      "b": 33
+    },
+    "horn": {
+      "r": 255,
+      "g": 252,
+      "b": 255
+    },
+    "eyewhite": {
+      "r": 235,
+      "g": 235,
+      "b": 235
+    },
+    "eye": {
+      "r": 153,
+      "g": 153,
+      "b": 153
+    },
+    "eye2": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "hair": {
+      "r": 173,
+      "g": 142,
+      "b": 76
+    },
+    "hairextra": {
+      "r": 219,
+      "g": 244,
+      "b": 255
+    },
+    "mustache": {
+      "r": 219,
+      "g": 244,
+      "b": 255
+    },
+    "beard": {
+      "r": 219,
+      "g": 244,
+      "b": 255
+    },
+    "headnose": {
+      "r": 145,
+      "g": 165,
+      "b": 255
+    },
+    "underwear": {
+      "r": 48,
+      "g": 48,
+      "b": 48
+    },
+    "fullheadcover": {
+      "r": 70,
+      "g": 1,
+      "b": 45
+    }
+  }
+}

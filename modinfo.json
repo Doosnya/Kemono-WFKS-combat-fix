@@ -1,0 +1,18 @@
+{
+	"type": "content",
+	"name": "Twilight Wolf Industries - Furry Additions",
+	"modid": "wkfa",
+	"version": "0.1.2",
+	
+	"description" : "Furry-Like Additions to the Kemono Body Type",
+	"website": "https://mods.vintagestory.at/wkfa",
+	"authors": [ "WolfKann", "SparksSkywere" ],
+
+	"requiredOnClient": true,
+	"requiredOnServer": true,
+
+	"dependencies": {
+		"game": "1.21.0",
+		"kemono": "0.1.7-COFix3"
+	}
+}
